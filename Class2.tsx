@@ -91,7 +91,7 @@ const styles = StyleSheet.create({
     alignSelf: "center" // it will align a single item
   },
   btnTxt: {
-    color: "darkpurple",
+    color: "white",
     fontWeight: "600",
   }
 });
